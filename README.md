@@ -1,9 +1,6 @@
 # UCU-BSECS-1-1
 
 
-This repository has organized informtion on my whole first semester
-
-
 CORES:
 
 Engineering Math I (4)
@@ -17,3 +14,16 @@ FOUNDATIONS:
 
 Understanding the Old Testament
 Writing and Study Skills
+
+
+
+# UCU-BSECS-1-2
+
+CORES:
+Engineering Math II
+Analogue Electronics
+Information Theory and Coding
+Structured Programming
+Manufacturing Technologies
+
+Understanding the New Testament
