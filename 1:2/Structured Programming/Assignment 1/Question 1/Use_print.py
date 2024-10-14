@@ -1,6 +1,8 @@
-# The format:
+#Question 1: Start up an interactive Python session and try typing in each of the following commands. 
+#Write down the results you see.
 
 
+# Format:
 #question
 #given code
 #result code
@@ -12,7 +14,7 @@ print("Hello, world!")
 
 #(b) 
 print("Hello", "world!")
-#Hello world
+#Hello world!
 
 #(c) 
 print(3)
@@ -47,5 +49,5 @@ print(2 ** 3)
 #8
 
 #(k) 
-print(2 / 3)
+print(2/3)
 #0.6666666666666666
