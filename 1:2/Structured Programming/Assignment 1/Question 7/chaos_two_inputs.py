@@ -11,7 +11,7 @@ def main():
 
     print(f"{'input':<15}{x:<20}{y:<20}")
     print("-"*45)
-    for i in range(100):
+    for i in range(10):
         x = 3.9*x*(1-x)
         y = 3.9*x*(1-x)
         print(f"{'':<8} {x:<20.10f} {y:<20.10f}")
