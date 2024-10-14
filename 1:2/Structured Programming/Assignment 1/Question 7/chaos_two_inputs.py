@@ -1,3 +1,7 @@
+#Question 7: Modify the Chaos program so that it accepts two inputs and then prints a table
+#with two columns similar to the one shown in Section 1.8.
+
+
 #File: chaos.py
 
 def main():
