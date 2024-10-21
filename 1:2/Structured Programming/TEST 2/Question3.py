@@ -2,7 +2,7 @@
 
 numbers = [1,7,3,9,4,8,13,124,57]
 
-largest = 0
+largest = numbers[0]
 
 for i in numbers:
     if i > largest:
