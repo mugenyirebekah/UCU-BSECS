@@ -83,7 +83,7 @@ void openDoors() {
     servo1.write(currentPosition);
     servo2.write(currentPosition);
     currentPosition++;  // Move to the next angle
-    delay(15); // Adjust delay as needed
+    delay(15); 
   }
 }
 
@@ -99,6 +99,6 @@ void closeDoors() {
     servo1.write(currentPosition);
     servo2.write(currentPosition);
     currentPosition--;  // Move to the previous angle
-    delay(15); // Adjust delay as needed
+    delay(15); 
   }
 }
