@@ -27,3 +27,4 @@ Structured Programming
 Manufacturing Technologies
 
 Understanding the New Testament
+.
