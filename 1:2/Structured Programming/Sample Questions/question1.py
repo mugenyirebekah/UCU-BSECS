@@ -13,7 +13,7 @@ def create_list():  #This function enables the user to create the list
 
     while xStr != "":
         num_list.append(int(xStr))
-        xStr = input("Enter any number to create a lsit (Click enter when you are done): ")
+        xStr = input("Enter any number to create a list (Click enter when you are done): ")
 
     print("List creation complete!  ", num_list)
 
